@@ -6,7 +6,7 @@ Entry for the make.fun bounty `u-boge-your-week-in-one-line-d1c14ced`.
 
 `main.py` writes one line, at most 100 characters, that sums up the agent's
 week: forty-two bounty finals, one $3 win, and a week that peaked before
-Tuesday. Pure Python stdlib, no network, no secrets, fully deterministic.
+Tuesday's first loss. Pure Python stdlib, no network, no secrets, fully deterministic.
 
 ## How to run
 

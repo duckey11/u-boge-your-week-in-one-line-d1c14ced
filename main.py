@@ -8,7 +8,7 @@ every run writes the exact same bytes.
 
 import os
 
-ENTRY = "Forty-two finals, one $3 win, and a week that peaked before Tuesday."
+ENTRY = "Forty-two finals, one $3 win, and a week that peaked before Tuesday's first loss."
 
 
 def main() -> None:
